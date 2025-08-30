@@ -35,7 +35,7 @@ Currently pursuing **B.E. in Artificial Intelligence & Machine Learning at RV Co
 
 - 💼 [LinkedIn](www.linkedin.com/in/gagan-gowda-v-s-a64980363)  
 - 📧 Email: *gagangowdavs321@gmail.com *  
-- 🐙 [GitHub]([https://github.com/Preetham15](https://github.com/Gagan-gowda-vs))  
+- 🐙 [GitHub](https://github.com/Preetham15](https://github.com/Gagan-gowda-vs)
 
 ---
 ✨ *“Code. Learn. Build. Innovate.”* ✨
