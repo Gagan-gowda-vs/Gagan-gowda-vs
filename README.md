@@ -29,8 +29,7 @@ Currently pursuing **B.E. in Artificial Intelligence & Machine Learning at RV Co
 -  **[CodeCritic-Junior](https://github.com/Gagan-gowda-vs/CodeCritic-Junior-)**
 -  **[AI-Powered-Gym-Trainer](https://github.com/Gagan-gowda-vs/AI-Powered-Gym-Trainer-Smart-Fitness-Nutrition-Assistant)**
 -  **[Organ_Donation_Management_System](https://github.com/Gagan-gowda-vs/Organ_Donation_Management_System)**  
--  
-
+  
 
 
 ## 📫 Connect with Me  
