@@ -18,8 +18,8 @@ Currently pursuing **B.E. in Artificial Intelligence & Machine Learning at RV Co
 
 | Domain         | Tools & Technologies |
 |----------------|----------------------|
-| Programming    | Python, C, SQL |
-| Web Development| HTML, CSS, JS, MySQL|
+| Programming    | Python, C |
+| Web Development| HTML, CSS, JS|
 | Databases      | MySQL |
 | Tools          | Git, GitHub, VS Code |
 
@@ -27,7 +27,7 @@ Currently pursuing **B.E. in Artificial Intelligence & Machine Learning at RV Co
  Popular Projects  
 
 -  **[CodeCritic-Junior](https://github.com/Gagan-gowda-vs/CodeCritic-Junior-)**
--  **[AI-Powered-Gym-Trainer-Smart-Fitness-Nutrition-Assistant](https://github.com/Gagan-gowda-vs/AI-Powered-Gym-Trainer-Smart-Fitness-Nutrition-Assistant)**
+-  **[AI-Powered-Gym-Trainer](https://github.com/Gagan-gowda-vs/AI-Powered-Gym-Trainer-Smart-Fitness-Nutrition-Assistant)**
 -  **[Organ_Donation_Management_System](https://github.com/Gagan-gowda-vs/Organ_Donation_Management_System)**  
 -  
 
